@@ -1,0 +1,136 @@
+#header {
+    margin: 2% 10% 1% 10%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    justify-content: flex-start;
+    margin:0% 10% 0% 12.5%;
+}
+.logo img {
+    width: 100%;
+}
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    
+    
+}
+.nav-item {
+    display: block;
+    font-size: 20px;
+}
+.a-item{
+    color: #28323c;
+    text-decoration: none;
+    padding:0px 28px 0px 28px;
+    
+}
+.btn-nav {
+    background-color: #28323c;
+    color: white;
+    border: 1px solid #28323c;
+    border-radius: .5rem;
+    padding: 5px 10px 8px 10px;
+}
+body{
+    background-image: url(https://rooftop.dev/images/contact-us-bg.jpg);
+    background-repeat: no-repeat;
+}
+.body {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+}
+.info {
+    width: 100%;
+    margin: 1% 10% 1% 20%;
+}
+
+.titulo {
+    font-family:Poppins;
+    color: #28323c;
+    font-size: 50px;
+}
+.subtitulo {
+    font-size: 18px;
+    padding-bottom: 2%;
+}
+.box {
+    background-color: white;
+    border-radius: 1rem;
+    margin-bottom: 2%;
+    padding: 12px;
+    width: 70%;
+}
+.titulo-box{
+    padding: 15px 0px 0px 15px;
+    font-size: 16px;
+    font-family: Poppins;
+}
+.subtitulo-box{
+    padding: 0px 0px 0px 35px;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header-box {
+    display: flex;
+    justify-content: flex-start;
+}
+.logo-box{
+    margin-top: 15px;
+    width: 20px;
+    height: 20px;
+}
+
+#form {
+    margin: 5% 15% 5% 0%;
+    width: 100%;
+    
+}
+.form-control{
+    height: 60px;
+    margin: 2% 0% 3% 0%;
+}
+#form-nombre {
+    width: 60%;
+    margin-right: 2%;
+}
+#form-select{
+    width: 40%;
+    margin-left:2% ;
+}
+.alinear-form{
+    display: flex;
+    justify-content: space-between;
+}
+.textarea-form {
+    border: 1px solid lightgray;
+}
+.btn-secondary {
+    height: 60px;
+    background-color: #28323c !important;
+    border-radius: .5rem !important;
+}
+
+#footer{
+display: flex;
+justify-content: flex-start;
+margin: -8% 10% 1% 18.5%;
+}
+.li-footer {
+    list-style-type: none;
+    display: inline-block;
+    background-color: #dddddd;
+    padding: 10px;
+    border-radius: .25rem;
+    margin: 0px 5px 0px 5px
+}
+.social-media  {
+    height: 15px;
+    width: 15px;
+
+}
