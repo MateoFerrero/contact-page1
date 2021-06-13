@@ -28,13 +28,15 @@
     text-decoration: none;
     padding:0px 28px 0px 28px;
     
+    
 }
 .btn-nav {
     background-color: #28323c;
     color: white;
     border: 1px solid #28323c;
     border-radius: .5rem;
-    padding: 5px 10px 8px 10px;
+    padding: 3px 8px 5px 8px;
+    margin-left: 8px;
 }
 body{
     background-image: url(https://rooftop.dev/images/contact-us-bg.jpg);
