@@ -107,8 +107,10 @@ body{
     display: flex;
     justify-content: space-between;
 }
+
 .textarea-form {
     border: 1px solid lightgray;
+    resize: none;
 }
 .btn-secondary {
     height: 60px;
